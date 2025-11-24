@@ -1,0 +1,9 @@
+torch
+pandas
+numpy
+scikit-learn
+ccxt
+ta
+joblib
+requests
+tenacity
